@@ -1,0 +1,62 @@
+{
+    "Education": [
+        "Diplôme d'ingénieur d'Etat en Informatique",
+        "Promotion 2017",
+        "laurèat de l'Institute National des Postes et Télécommunications INPT",
+        "http://inpt.ac.ma"
+    ],
+    "Experiences": {
+        "Développeur JAVA chez Skylads": [
+            "Du juillet 2017 à décembre 2018 (18 Mois)",
+            "Développer les testes unitaires et fonctionels du l'API de Skylads",
+            "Développer des fonctionalités pour créer et mettre à jour les données des campaignes dans la base de données et MediaMath",
+            "analyzer les campaignes et présenter les resultats au clients",
+            "Développer un Monitoring Dashboard pour les clients",
+            "Technologies: Java SE, Java EE, Hibernate, MySql, Junit, ChartJs, Tableau Software, Github, Jira"
+        ],
+        "Consultant Technico-fonctionnel chez DXC Technology": [
+            "Du janvier 2019 à avril 2019 (4 Mois)",
+            "Projet: Commerce Cloud",
+            "Développement et support de projet commerce cloud",
+            "Technologies: Demandware (SiteGenesis), ISML, NodeJS, JQuery, BitBucket, Jira, Scrum(Agile)"
+        ],
+        "Software Engineer at Capgemini": [
+            "Depuis Mai 2019"
+        ]
+    },
+    "Compétences": {
+        "Langages de programmation": [
+            "Java",
+            "Javascript",
+            "C/C++"
+        ],
+        "Technologies Front-End": [
+            "HTML 5",
+            "CSS 3",
+            "JQuery",
+            "Angular"
+        ],
+        "Technologies Back-End": [
+            "Java EE (known now as Jakarta EE)",
+            "Servlet/JSP",
+            "Jax-RS"
+        ],
+        "Frameworks et outils": [
+            "Spring (IOC, MVC, Boot, AOP, REST, Security)",
+            "Vert.X",
+            "Hibernate",
+            "JUnit",
+            "Maven",
+            "Git"
+        ]
+    },
+    "Certifications": [
+        "OCA 7 : Oracle Certified Associate Java SE 7 Programmer I"
+    ],
+    "Contact": [
+        "Email : oubidar.abderrahim@gmail.com",
+        "LinkedIn : https://www.linkedin.com/in/abderrahim-oubidar-a3a362a8/",
+        "Github : https://github.com/oubidar-Abderrahim",
+        "Twitter: https://twitter.com/a_oubidar"
+    ]
+}

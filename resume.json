@@ -1,0 +1,62 @@
+{
+    "Education": [
+        "Master's Degree in Software Engineering",
+        "graduated in 2017",
+        "from INPT institute",
+        "http://inpt.ac.ma"
+    ],
+    "Experiences": {
+        "Java Developer at Skylads": [
+            "From July 2017 to Decempber 2018 (18 Months)",
+            "worked on developing unit testes and business ones on Skylads’s Skott API",
+            "worked on developing functionalities for creating and updating campaigns between the Database and MediaMath’s T1 platform",
+            "worked on analyzing and monitoring campaigns",
+            "worked on developing a Monitoring Dashboard for clients",
+            "Technologies: Java SE, Java EE, Hibernate, MySql, Junit, ChartJs, Tableau Software, Github, Jira"
+        ],
+        "Technical Consultant at DXC Technology": [
+            "From January 2019 to April 2019 (4 Months)",
+            "Project: Commerce Cloud",
+            "worked on developing new feature and support existing ones, either on the back-end side (developed with NodeJS) or in the Salesforce Business Manager",
+            "Technologies: Demandware (SiteGenesis), ISML, NodeJS, JQuery, BitBucket, Jira, Scrum(Agile)"
+        ],
+        "Software Engineer at Capgemini": [
+            "Since May 2019"
+        ]
+    },
+    "Skills": {
+        "Programming Languages": [
+            "Java",
+            "Javascript",
+            "C/C++"
+        ],
+        "Front-End Technologies": [
+            "HTML 5",
+            "CSS 3",
+            "JQuery",
+            "Angular"
+        ],
+        "Back-End Technologies": [
+            "Java EE (known now as Jakarta EE)",
+            "Servlet/JSP",
+            "Jax-RS"
+        ],
+        "Frameworks and Tools": [
+            "Spring (IOC, MVC, Boot, AOP, REST, Security)",
+            "Vert.X",
+            "Hibernate",
+            "JUnit",
+            "Maven",
+            "Git"
+        ]
+    },
+    "Certifications": [
+        "OCA 7 : Oracle Certified Associate Java SE 7 Programmer I"
+    ],
+    "Contact": [
+        "Email : oubidar.abderrahim@gmail.com",
+        "LinkedIn : https://www.linkedin.com/in/abderrahim-oubidar-a3a362a8/",
+        "Github : https://github.com/oubidar-Abderrahim",
+        "Twitter: https://twitter.com/a_oubidar"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "oubidar-abderrahim-resume",
+  "version": "1.0.0",
+  "description": "My Resume as an npm packege",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume","CV"
+  ],
+  "author": "Oubidar Abderrahim",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.3.1",
+    "properties-reader": "0.0.16"
+  },
+  "bin": {
+    "oubidar-abderrahim-resume": "./index.js"
+    }
+}
