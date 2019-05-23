@@ -4,6 +4,9 @@
 var inquirer = require("inquirer");
 var PropertiesReader = require('properties-reader');
 var chalk = require("chalk");
+const path = require("path");
+
+var dirpath = path.resolve(__dirname);
 
 var response = chalk.bold.green;
 
@@ -18,13 +21,13 @@ function main() {
         type: "list",
         name: "language",
         message: "Choose a language - Choisir une langue",
-        choices: ["English", "Français", "Sortir"]
+        choices: ["English", "Français", "Exit/Sortir"]
     })
     .then(choice => {
         if (choice.language == "English") {
             
-            resume = require("./resume.json");
-            properties = PropertiesReader('./en.properties');
+            resume = require(path.join(dirpath, "resume.json"));
+            properties = PropertiesReader(path.join(dirpath, "en.properties"));
             resumePrompts = {
                 type: "list",
                 name: "resumeOptions",
@@ -37,8 +40,8 @@ function main() {
         }
         else if (choice.language == "Français") {
 
-            resume = require("./cv.json");
-            properties = PropertiesReader('./fr.properties');
+            resume = require(path.join(dirpath, "cv.json"));
+            properties = PropertiesReader(path.join(dirpath, "fr.properties"));
             resumePrompts = {
                 type: "list",
                 name: "resumeOptions",
