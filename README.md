@@ -8,4 +8,6 @@ choises for the use to choose from.
 
 The resume comes in two languages : *English* and *French*
 
+To try it, in your CMD run : **npm install -g oubidar-abderrahim-resume**, after installation complete, run  **oubidar-abderrahim-resume**
+
 Special thanks to [silentlad](https://github.com/silent-lad/silentlad)
