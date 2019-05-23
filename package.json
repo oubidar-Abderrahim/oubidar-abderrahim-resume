@@ -1,13 +1,14 @@
 {
   "name": "oubidar-abderrahim-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My Resume as an npm packege",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "resume","CV"
+    "resume",
+    "CV"
   ],
   "author": "Oubidar Abderrahim",
   "license": "MIT",
@@ -18,5 +19,5 @@
   },
   "bin": {
     "oubidar-abderrahim-resume": "./index.js"
-    }
+  }
 }
